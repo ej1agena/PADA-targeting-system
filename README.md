@@ -1,1 +1,2 @@
-# PADA-targeting-system
+# PADA Targeting System
+# ECE 491 Capstone Project: Group 9
